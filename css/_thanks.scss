@@ -1,0 +1,35 @@
+.thanks{
+    background: url(../img/waves.png) center top no-repeat;
+    background-size: cover;
+    height: 38rem;
+ } 
+ .banner-thanks{
+    background: url(../img/Phone.png) right top no-repeat;
+    background-size: cover;
+    display:flex;
+    height:62rem;
+    align-items:center;
+    transform:translateY(-3rem);
+ }
+ .link-text{
+    color:$yellow;
+    font-family: 'Play', sans-serif;
+    font-size:2.2rem;
+    font-weight:400;
+    text-transform:uppercase;
+ }
+ .wrapper-thanks{
+    width: 70%;
+      h5{
+          margin-bottom: 1.5rem;
+      }
+ }
+ .home-button{
+    margin-top: 3rem;
+    display:flex;
+    align-items:center;
+       
+ }
+ .link-home{
+     margin-right: 2rem;
+ }

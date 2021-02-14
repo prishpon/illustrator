@@ -1,0 +1,25 @@
+.slick-dots li button {
+    background: #ff6e17;
+    border-radius: 50%;
+}
+.slick-dots li button::before {
+    display: none;
+}
+.slick-dots li button :hover{
+    background: #030100;
+    border-radius: 50%;
+}
+.your-class{
+    height:31.5rem;
+}
+#slick-slide02{
+    img{
+        padding-top:16px;
+    }
+ 
+}
+#slick-slide01{  
+       img{
+        padding-top:10px;
+       }
+}
